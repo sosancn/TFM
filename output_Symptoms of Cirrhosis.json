@@ -1,0 +1,71 @@
+{
+"Symptoms": 
+
+[
+  {
+    "node_1": "Symptoms of common cold",
+    "node_2": "Runny nose",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of common cold",
+    "node_2": "Sneezing",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of common cold",
+    "node_2": "Cough",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of flu",
+    "node_2": "Fever",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of flu",
+    "node_2": "Body aches",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of flu",
+    "node_2": "Headache",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+    "node_2": "Fatigue",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+    "node_2": "Pale skin",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+    "node_2": "Shortness of breath",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+    "node_2": "Heart palpitations",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Cirrhosis",
+    "node_2": "Jaundice",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Cirrhosis",
+    "node_2": "Nausea",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Symptoms of Cirrhosis",
+    "node_2": "Weight loss",
+    "edge": "may include"
+  }
+]
+}

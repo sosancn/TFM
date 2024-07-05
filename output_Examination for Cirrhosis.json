@@ -1,0 +1,44 @@
+{
+"Examination": [
+  {
+    "node_1": "Examination for Cirrhosis",
+    "node_2": "Coagulation tests",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Cirrhosis",
+    "node_2": "Liver blood tests",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Hepatitis C",
+    "node_2": "Blood tests",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Hepatitis C",
+    "node_2": "Viral load test",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Iron (Fe) deficiency anemia",
+    "node_2": "Complete blood count",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Iron (Fe) deficiency anemia",
+    "node_2": "Serum ferritin level test",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Iron (Fe) deficiency anemia",
+    "node_2": "Reticulocyte count",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Examination for Iron (Fe) deficiency anemia",
+    "node_2": "Rectal examination",
+    "edge": "includes"
+  }
+]
+}

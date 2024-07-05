@@ -1,0 +1,89 @@
+{
+"Causes": [
+  {
+    "node_1": "Iron (Fe) deficiency",
+    "node_2": "Anemia",
+    "edge": "is a cause of"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency",
+    "node_2": "Fatigue",
+    "edge": "may cause"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency",
+    "node_2": "Weakness",
+    "edge": "may cause"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency",
+    "node_2": "Pale skin",
+    "edge": "may cause"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Microcytic hypochromic red blood cells",
+    "edge": "characterized by"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Low hemoglobin levels",
+    "edge": "resulting in"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Reduced oxygen-carrying capacity",
+    "edge": "leading to"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Increased risk of infection",
+    "edge": "associated with"
+  },
+  {
+    "node_1": "Chronic disease or inflammation",
+    "node_2": "Iron (Fe) malabsorption",
+    "edge": "can lead to"
+  },
+  {
+    "node_1": "Chronic disease or inflammation",
+    "node_2": "Blood loss",
+    "edge": "can result in"
+  },
+  {
+    "node_1": "Poor diet",
+    "node_2": "Iron (Fe) deficiency",
+    "edge": "contributes to"
+  },
+  {
+    "node_1": "Vegetarian diet",
+    "node_2": "Iron (Fe) deficiency",
+    "edge": "increases the risk of"
+  },
+  {
+    "node_1": "Menorrhagia",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Peptic ulcers",
+    "node_2": "Iron (Fe) absorption reduction",
+    "edge": "cause"
+  },
+  {
+    "node_1": "Helicobacter pylori",
+    "node_2": "Peptic ulcers",
+    "edge": "are associated with"
+  },
+  {
+    "node_1": "Esophagitis",
+    "node_2": "Iron (Fe) absorption reduction",
+    "edge": "can cause"
+  },
+  {
+    "node_1": "Gastrectomy",
+    "node_2": "Iron (Fe) absorption reduction",
+    "edge": "results in"
+  }
+]
+}

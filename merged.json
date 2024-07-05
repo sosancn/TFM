@@ -1,0 +1,178 @@
+[
+    {
+        "Causes": [
+            {
+                "node_1": "Illness",
+                "node_2": "Cirrhosis",
+                "edge": "is"
+            },
+            {
+                "node_1": "Causes of Cirrhosis",
+                "node_2": "Chronic alcohol use",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Illness",
+                "node_2": "Iron (Fe) deficiency anemia",
+                "edge": "is"
+            },
+            {
+                "node_1": "Causes of Iron (Fe) deficiency anemia",
+                "node_2": "Esophagitis",
+                "edge": "may include"
+            }
+        ]
+    },
+    {
+        "Treatment": [
+            {
+                "node_1": "Treatment for cirrhosis",
+                "node_2": "Supportive care",
+                "edge": "consists in"
+            },
+            {
+                "node_1": "Treatment for cirrhosis",
+                "node_2": "Diet modification",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Treatment for cirrhosis",
+                "node_2": "Medication (e.g., lactulose)",
+                "edge": "may involve"
+            },
+            {
+                "node_1": "Liver transplantation",
+                "node_2": "Patients with end-stage liver disease or HCC",
+                "edge": "is indicated for"
+            },
+            {
+                "node_1": "Liver transplantation",
+                "node_2": "Postoperative complications",
+                "edge": "can lead to"
+            },
+            {
+                "node_1": "Taking oral ferrous salts",
+                "node_2": "Abdominal distension",
+                "edge": "side effect"
+            },
+            {
+                "node_1": "Taking oral ferrous salts",
+                "node_2": "Constipation",
+                "edge": "side effect"
+            }
+        ]
+    },
+    {
+        "Symptoms": [
+            {
+                "node_1": "Symptoms of common cold",
+                "node_2": "Runny nose",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of common cold",
+                "node_2": "Sneezing",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of common cold",
+                "node_2": "Cough",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of flu",
+                "node_2": "Fever",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of flu",
+                "node_2": "Body aches",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of flu",
+                "node_2": "Headache",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+                "node_2": "Fatigue",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+                "node_2": "Pale skin",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+                "node_2": "Shortness of breath",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Iron (Fe) deficiency anemia",
+                "node_2": "Heart palpitations",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Cirrhosis",
+                "node_2": "Jaundice",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Cirrhosis",
+                "node_2": "Nausea",
+                "edge": "may include"
+            },
+            {
+                "node_1": "Symptoms of Cirrhosis",
+                "node_2": "Weight loss",
+                "edge": "may include"
+            }
+        ]
+    },
+    {
+        "Examination": [
+            {
+                "node_1": "Iron (Fe) deficiency anemia",
+                "node_2": "Anemia",
+                "edge": "is_a"
+            },
+            {
+                "node_1": "Iron (Fe) deficiency anemia",
+                "node_2": "Iron deficiency",
+                "edge": "causes"
+            },
+            {
+                "node_1": "Iron (Fe) deficiency anemia",
+                "node_2": "Blood tests",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Blood tests",
+                "node_2": "Complete blood count (CBC)",
+                "edge": "part_of"
+            },
+            {
+                "node_1": "Blood tests",
+                "node_2": "Serum ferritin test",
+                "edge": "part_of"
+            },
+            {
+                "node_1": "Blood tests",
+                "node_2": "Reticulocyte count",
+                "edge": "part_of"
+            },
+            {
+                "node_1": "Seek possible sources of blood loss",
+                "node_2": "Rectal examination",
+                "edge": "includes"
+            },
+            {
+                "node_1": "Seek possible sources of blood loss",
+                "node_2": "Digital rectal examination",
+                "edge": "includes"
+            }
+        ]
+    }
+]

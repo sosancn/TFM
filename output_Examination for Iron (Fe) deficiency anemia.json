@@ -1,0 +1,59 @@
+{
+"Examination":[
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Blood tests",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Serum ferritin level test",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Complete blood count (CBC)",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Reticulocyte count",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Stool occult blood test",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Seek possible sources of blood loss",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Hematocrit test",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is_part_of"
+  },
+  {
+    "node_1": "Mean corpuscular volume (MCV) test",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is_part_of"
+  },
+  {
+    "node_1": "Mean corpuscular hemoglobin (MCH) test",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is_part_of"
+  },
+  {
+    "node_1": "Mean corpuscular hemoglobin concentration (MCHC) test",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is_part_of"
+  },
+  {
+    "node_1": "Red blood cell distribution width (RDW) test",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is_part_of"
+  }
+]
+}

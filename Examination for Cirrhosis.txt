@@ -1,0 +1,6 @@
+Examination for Cirrhosis includes:
+Liver blood tests, coagulation tests, complete blood count (CBC), and serologic tests for viral causes
+Conventional liver imaging tests: Ultrasonography, CT, MRI
+Noninvasive imaging assessment of fibrosis: Transient elastography, acoustic radiation force impulse imaging, 2-dimensional shear wave elastography, magnetic resonance elastography +/- proton density fat fraction
+Identification of cause based on clinical evaluation, routine testing for common causes, and selective testing for less common causes
+Sometimes liver biopsy (eg, when clinical and noninvasive tests are inconclusive, or when biopsy results may change management)

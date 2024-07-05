@@ -1,0 +1,38 @@
+Cirrhosis
+
+Cirrhosis is a late stage of hepatic fibrosis that has resulted in widespread distortion of normal hepatic architecture. Cirrhosis is characterized by regenerative nodules surrounded by dense fibrotic tissue. Symptoms may not develop for years and are often nonspecific (eg, anorexia, fatigue, weight loss). Late manifestations include portal hypertension, ascites, hepatic encephalopathy, and, when decompensation occurs, liver failure. Diagnosis is usually made using noninvasive imaging, although liver biopsy is required on rare occasions. Management involves supportive care and treatment of the causative liver disease.
+
+Causes of Cirrhosis may include: 
+Chronic alcohol use
+Chronic viral hepatitis (hepatitis B and C)
+Metabolic dysfunction_associated steatohepatitis (MASH, formerly known as nonalcoholic steatohepatitis/NASH). 
+In parts of Asia and Africa, cirrhosis often results from endemic chronic hepatitis B.  
+Cirrhosis of unknown etiology (cryptogenic cirrhosis) is becoming less common as many specific causes (eg, chronic hepatitis C, MASH) are identified. 
+Injury to the bile ducts also can result in cirrhosis, as occurs in mechanical bile duct obstruction, primary biliary cholangitis, and primary sclerosing cholangitis.
+
+Symptoms of Cirrhosis may include:
+Cirrhosis may be asymptomatic for years as long as it is compensated. 
+Often, the first symptoms are nonspecific.
+They include generalized fatigue (due to cytokine release)
+Anorexia.
+Malaise.
+Weight loss (see table Common Symptoms and Signs Due to Complications of Cirrhosis). 
+The liver is typically palpable and firm, with a blunt edge, but is sometimes small and difficult to palpate. 
+Nodules usually are not palpable.
+Clinical signs that suggest a chronic liver disorder or chronic alcohol use but are not specific for cirrhosis include muscle wasting, palmar erythema, parotid gland enlargement, white nails, clubbing, Dupuytren contracture, spider angiomas, gynecomastia, axillary hair loss, testicular atrophy, and peripheral neuropathy.
+Once any complication of cirrhosis develops, additional decompensation (characterized by gastrointestinal bleeding, ascites, or hepatic encephalopathy) is much more likely.
+
+Examination for Cirrhosis includes:
+Liver blood tests, coagulation tests, complete blood count (CBC), and serologic tests for viral causes
+Conventional liver imaging tests: Ultrasonography, CT, MRI
+Noninvasive imaging assessment of fibrosis: Transient elastography, acoustic radiation force impulse imaging, 2-dimensional shear wave elastography, magnetic resonance elastography +/- proton density fat fraction
+Identification of cause based on clinical evaluation, routine testing for common causes, and selective testing for less common causes
+Sometimes liver biopsy (eg, when clinical and noninvasive tests are inconclusive, or when biopsy results may change management)
+
+Treatment for Cirrhosis consists on: 
+
+Supportive care
+In general, treatment is supportive and includes stopping injurious medications, providing nutrition (including supplemental vitamins), and treating the underlying disorders and complications. Doses of medications metabolized in the liver should be reduced. All alcohol and hepatotoxic substances must be avoided. Withdrawal symptoms during hospitalization should be anticipated in patients who have cirrhosis and have continued their chronic use of alcohol. Patients should be vaccinated against viral hepatitis A and B unless they are already immune.
+Patients with varices need therapy to prevent bleeding (see Portal Hypertension: Treatment). Patients with compensated cirrhosis who have clinically significant portal hypertension (according to the Baveno VII criteria) should be started on a nonselective beta-blocker to prevent decompensation (1). Carvedilol is the preferred nonselective beta-blocker due to greater benefit compared with other nonselective beta-blockers (eg, propranolol) and improved survival. If the patient is not a candidate for a nonselective beta-blocker, upper endoscopy should be performed. Medium and large esophageal varices should be treated prophylactically with endoscopic banding (ligation). If gastric varices are not amenable to endoscopic banding and the patient is not a candidate for nonselective beta-blockers, balloon-occluded retrograde transvenous obliteration or endoscopic cyanoacrylate injection may be used.
+Trans jugular intrahepatic portosystemic shunting (TIPS) should be considered if patients have complications of portal hypertension that are refractory to standard treatments, including ascites and recurrent variceal bleeding. TIPS is relatively contraindicated in patients with heart failure, moderate or severe pulmonary hypertension, or hepatic encephalopathy. Patients with high MELD scores (> 18) have a higher risk of mortality after TIPS.
+Liver transplantation is indicated for patients with end-stage liver disease or HCC. Risk of death without liver transplantation begins to exceed risks of transplantation (eg, perioperative complications, chronic immunosuppression) when the MELD score is more than about 15. Thus, if the score is ≥ 15, if the patient's HCC meets the criteria for MELD exception point, or if cirrhosis has decompensated clinically, patients should be referred to a transplantation center.

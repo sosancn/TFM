@@ -1,0 +1,39 @@
+{
+"Treatment": [
+  {
+    "node_1": "Treatment for cirrhosis",
+    "node_2": "Supportive care",
+    "edge": "consists in"
+  },
+  {
+    "node_1": "Treatment for cirrhosis",
+    "node_2": "Diet modification",
+    "edge": "includes"
+  },
+  {
+    "node_1": "Treatment for cirrhosis",
+    "node_2": "Medication (e.g., lactulose)",
+    "edge": "may involve"
+  },
+  {
+    "node_1": "Liver transplantation",
+    "node_2": "Patients with end-stage liver disease or HCC",
+    "edge": "is indicated for"
+  },
+  {
+    "node_1": "Liver transplantation",
+    "node_2": "Postoperative complications",
+    "edge": "can lead to"
+  },
+  {
+    "node_1": "Taking oral ferrous salts",
+    "node_2": "Abdominal distension",
+    "edge": "side effect"
+  },
+  {
+    "node_1": "Taking oral ferrous salts",
+    "node_2": "Constipation",
+    "edge": "side effect"
+  }
+]
+}

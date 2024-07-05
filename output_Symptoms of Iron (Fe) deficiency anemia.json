@@ -1,0 +1,39 @@
+{
+"Symptoms": [
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Fatigue",
+    "edge": "is often associated with"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Shortness of breath",
+    "edge": "may be accompanied by"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Weakness",
+    "edge": "can manifest as"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Pale skin",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Yellow sallow skin",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Brittle nails",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "Hair loss",
+    "edge": "may include"
+  }
+]
+}

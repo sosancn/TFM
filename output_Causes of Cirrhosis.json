@@ -1,0 +1,29 @@
+{
+"Causes": [
+  {
+    "node_1": "Illness",
+    "node_2": "Cirrhosis",
+    "edge": "is"
+  },
+  {
+    "node_1": "Cause",
+    "node_2": "Chronic alcohol use",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Cause",
+    "node_2": "Chronic viral hepatitis (hepatitis B and C)",
+    "edge": "may include"
+  },
+  {
+    "node_1": "Illness",
+    "node_2": "Iron (Fe) deficiency anemia",
+    "edge": "is"
+  },
+  {
+    "node_1": "Cause",
+    "node_2": "Esophagitis",
+    "edge": "may include"
+  }
+]
+}

@@ -1,0 +1,44 @@
+{
+"Treatment": [
+  {
+    "node_1": "Iron (Fe) deficiency anemia",
+    "node_2": "taking oral ferrous salts",
+    "edge": "treatment is"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "FeSO4 (Fe gluconate and fumarate equally acceptable)",
+    "edge": "e.g."
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "constipation",
+    "edge": "possible side effect"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "diarrhea",
+    "edge": "possible side effect"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "nausea",
+    "edge": "possible side effect"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "stomach pain",
+    "edge": "possible side effect"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "dark stools",
+    "edge": "indication of effectiveness"
+  },
+  {
+    "node_1": "taking oral ferrous salts",
+    "node_2": "abdominal distension",
+    "edge": "side effect"
+  }
+]
+}

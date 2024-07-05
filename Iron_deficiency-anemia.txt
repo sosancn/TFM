@@ -1,0 +1,64 @@
+Iron (Fe) deficiency anemia
+
+Microcytic anemia is common, and the commonest cause is chronic Fe deficiency. Normal (Western) diet provides 715mg of Fe/d, of which 5_10% is absorbed in duodenum and upper jejunum. Ferrous (Fe2+) Fe is better absorbed than ferric (Fe3+) Fe. Total body Fe store 74g. Around 1mg of Fe/d lost in urine, feces, sweat, and cells shed from the skin and GIT. Fe deficiency is commoner in females of reproductive age since menstrual losses account for 720mg Fe/month and in pregnancy an additional 500_1000mg Fe may be lost (transferred from mother to fetus).
+
+Causes of Iron (Fe) deficiency anemia may include:
+Menorrhagia.
+Esophagitis, esophageal varices, hiatus hernia (ulcerated; simple hiatus hernia would not cause Fe deficiency), peptic ulcer, inflammatory bowel disease, hemorrhoids, carcinoma: stomach, colorectal, (rarely angiodysplasia, hereditary hemorrhagic telangiectasia).
+Malabsorption: coeliac disease, atrophic gastritis (note: may also result from Fe deficiency), gastrectomy.
+Growth spurts, pregnancy.
+Vegans, elderly.
+Hematuria (uncommon cause).
+PNH, frequent venesection, e.g. blood donation.
+Commonest cause is hookworm infestation.
+
+Symptoms of iron deficiency anemia may include:
+Being pale or having yellow "sallow" skin
+Unexplained fatigue or lack of energy
+Shortness of breath or chest pain, especially with activity
+Unexplained generalized weakness
+Rapid heartbeat
+Pounding or "whooshing" in the ears
+Headache, especially with activity
+Craving for ice or clay  "picophagia"
+Sore or smooth tongue
+Brittle nails or hair loss
+
+Diagnosis:
+
+Assessment
+
+Clinical history_review potential sources of blood loss, especially GIT loss.
+Menstrual loss_quantitation may be difficult; ask about number of tampons used per day, how often these require changing, and duration.
+Other sources of blood loss, e.g. hematuria and hemoptysis (these are not common causes of Fe deficiency). Ask patient if he/she has been a blood donor_regular blood donation over many years may cause chronic Fe store depletion.
+Drug therapy, e.g. NSAIDs and corticosteroids may cause GI irritation and blood loss.
+Past medical history, e.g. previous gastric surgery (malabsorption). Ask about previous episodes of anemia and treatments with Fe.
+In patients with Fe deficiency assume underlying cause is blood loss until proven otherwise. In developed countries pure dietary Fe lack causing Fe deficiency is almost unknown.
+
+Examination
+
+General examination including assessment of mucous membranes (e.g. hereditary hemorrhagic telangiectasia).
+Seek possible sources of blood loss.
+Abdominal examination, rectal examination, and sigmoidoscopy mandatory.
+Gynaecological examination also required.
+
+Laboratory tests
+
+Decreased Hb.
+Decreased MCV (<76fL) and decreased MCHC (Note: decreased MCV in thalassemia and ACD).
+Red cell distribution width (RDW): increase in Fe deficiency states with a greater frequency than in ACD or thalassemia trait.
+Serum ferritin (measurement of Fe/TIBC generally unhelpful). Ferritin assay preferred_low serum ferritin identifies the presence of Fe deficiency but as an acute phase protein it can be increased, masking Fe deficiency. Decreased Fe and increased TIBC indicates Fe deficiency (though tests are obsolete).
+The soluble transferrin assay (sTfR) is useful in cases where increased ESR. sTfR is increased in Fe deficiency but normal in anemia in presence of increased ESR (e.g. rheumatoid, other inflammatory states). This assay is not universally available at present.
+% hypochromic RBCs_some modern analyzers provide this parameter. Increased % hypo RBCs are seen in Fe deficiency but also thalassemia, CRF on EPO where insufficient Fe given.
+Zinc protoporphyrin (ZPP)_in the absence of Fe, zinc is incorporated into protoporphyrin. Increased ZPP in Fe deficiency is a nonspecific marker since increased ZPP is seen in any disorder that restricts Fe availability to developing RBCs, e.g. infection, inflammation, cancer, etc.
+Reticulocyte Hb concentration (CHr) appears to be a sensitive method for detecting early Fe deficiency.
+Examination of BM aspirate (Fe stain) is occasionally useful.
+Theoretically FOB testing may be of value in Fe deficiency but results can be misleading. False +ve results seen in high dietary meat intake.
+
+
+Simplest, safest and cheapest treatment is oral ferrous salts, e.g. FeSO4 (Fe gluconate and fumarate equally acceptable). Provide an oral dose of elemental Fe of 150_200mg/d. Side effects in 10_20% patients (e.g. abdominal distension, constipation and/or diarrhea)_try decreasing the daily dose to bd or od. Liquid Fe occasionally necessary, e.g. children or adults with swallowing difficulties. Increasing dietary Fe intake has no routine place in the management of Fe deficiency except where intake is grossly deficient.
+A rise of Hb of 2.0g/dL over 3 weeks is expected. MCV will increase concomitantly with Hb. Reticulocytes may increase in response to Fe therapy but is not a reliable indicator of response.
+Generally around 6 months. After Hb and MCV are normal continue Fe for at least 3 months to replenish Fe stores.
+
+Parenteral Fe: occasionally of value in genuine Fe intolerance, if compliance is a problem, or if need to replace stores rapidly, e.g. in pregnancy or prior to major surgery. Note: Hb will rise no faster than with oral Fe.
+Intravenous Fe: Fe may be administered IV as Fe hydroxide sucrose (ferric hydroxide with sucrose) or Fe dextran (ferric hydroxide with dextran). Facilities for cardiopulmonary resuscitation should be available though serious adverse events are uncommon.
